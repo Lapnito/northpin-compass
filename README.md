@@ -16,9 +16,6 @@
   <a href="https://apps.apple.com/us/app/northpin-true-north-compass/id6759560694">
     <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store">
   </a>
-  <a href="https://lapnito.cz/northpin_compass">
-    <img src="https://img.shields.io/badge/Website-lapnito.cz-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
 </p>
 
 <p align="center">
@@ -28,6 +25,16 @@
   <img src="https://img.shields.io/badge/Privacy-No%20Data%20Collected-brightgreen" alt="Privacy">
   <img src="https://img.shields.io/badge/Sensors-Magnetometer%20%2B%20GPS-orange" alt="Sensors">
   <img src="https://img.shields.io/badge/Developer-lapnito.cz%20s.r.o.-blueviolet" alt="Developer">
+</p>
+
+<p align="center">
+  <b>Read in other languages:</b>
+  <a href="README.es.md">Español</a> ·
+  <a href="README.pt-BR.md">Português (BR)</a> ·
+  <a href="README.de.md">Deutsch</a> ·
+  <a href="README.fr.md">Français</a> ·
+  <a href="README.hi.md">हिन्दी</a> ·
+  <a href="README.ar.md">العربية</a>
 </p>
 
 ---
@@ -107,7 +114,6 @@ A digital compass app like NorthPin reads data from the **magnetometer sensor** 
 | **Android** | NorthPin Offline Compass | [Google Play](https://play.google.com/store/apps/details?id=com.tomas.northpin_compass) |
 | **iOS** | NorthPin True North Compass | [App Store](https://apps.apple.com/us/app/northpin-true-north-compass/id6759560694) |
 
-**Website:** [lapnito.cz/northpin_compass](https://lapnito.cz/northpin_compass)
 **Support:** [lapnito.cz/northpin_compass/support.html](https://lapnito.cz/northpin_compass/support.html)
 
 ## FAQ
@@ -150,14 +156,12 @@ A: Open the calibration screen in NorthPin and follow the guided figure-eight mo
 - **Framework:** Built with Flutter for cross-platform consistency
 - **Android:** Min SDK Android 7.0 (API 24)
 - **iOS:** Min iOS 13.0
-- **Languages:** English
+- **Languages:** English, Español, Português, Deutsch, Français, हिन्दी, العربية
 
 ## About the Developer
 
 Built by **[lapnito.cz s.r.o.](https://lapnito.cz)** (Lapnito Development Studio), an indie development studio based in the Czech Republic.
 
-- **Website:** [lapnito.cz](https://lapnito.cz)
-- **App page:** [lapnito.cz/northpin_compass](https://lapnito.cz/northpin_compass)
 - **Support:** [lapnito.cz/northpin_compass/support.html](https://lapnito.cz/northpin_compass/support.html)
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **More apps:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
