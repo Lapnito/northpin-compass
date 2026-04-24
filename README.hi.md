@@ -34,7 +34,20 @@
   <a href="README.pt-BR.md">Português (BR)</a> ·
   <a href="README.de.md">Deutsch</a> ·
   <a href="README.fr.md">Français</a> ·
-  <a href="README.ar.md">العربية</a>
+  <a href="README.it.md">Italiano</a> ·
+  <a href="README.nl.md">Nederlands</a> ·
+  <a href="README.pl.md">Polski</a> ·
+  <a href="README.cs.md">Čeština</a> ·
+  <a href="README.uk.md">Українська</a> ·
+  <a href="README.ru.md">Русский</a> ·
+  <a href="README.tr.md">Türkçe</a> ·
+  <a href="README.ar.md">العربية</a> ·
+  <a href="README.zh-CN.md">中文</a> ·
+  <a href="README.ja.md">日本語</a> ·
+  <a href="README.ko.md">한국어</a> ·
+  <a href="README.id.md">Bahasa Indonesia</a> ·
+  <a href="README.vi.md">Tiếng Việt</a> ·
+  <a href="README.th.md">ภาษาไทย</a>
 </p>
 
 ---
@@ -156,7 +169,7 @@ NorthPin जैसा डिजिटल कम्पास ऐप आपके 
 - **फ़्रेमवर्क:** क्रॉस-प्लेटफ़ॉर्म स्थिरता के लिए Flutter में निर्मित
 - **Android:** न्यूनतम SDK Android 7.0 (API 24)
 - **iOS:** न्यूनतम iOS 13.0
-- **भाषाएँ:** English, Español, Português, Deutsch, Français, हिन्दी, العربية
+- **भाषाएँ:** English, Español, Português (BR), Deutsch, Français, Italiano, Nederlands, Polski, Čeština, Українська, Русский, Türkçe, العربية, हिन्दी, 中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, ภาษาไทย
 
 ## डेवलपर के बारे में
 
